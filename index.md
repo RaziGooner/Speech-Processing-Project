@@ -16,7 +16,7 @@ Welcome to our project site!
 <h2>Project Report</h2>
 <p>
   You can download or view the full report here:
-  <a href="report.pdf" target="_blank">Open PDF in new tab</a>
+  <a href="project report.pdf" target="_blank">Open PDF in new tab</a>
 </p>
 
 <iframe
