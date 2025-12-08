@@ -1,16 +1,14 @@
 # Graduate Speech Processing – Final Project
 
-Welcome to our project site! 
-
-
-## Papers
-
-
-
-
+This project presents a deep-learning–based speech enhancement system designed to separate clean speech from
+noisy inputs across diverse acoustic conditions. The system uses a Bidirectional Long Short-Term Memory 
+with Phase-Sensitive Approximation (BLSTM-PSA) model trained on mixtures of clean utterances from the 
+LibriSpeech corpus and noise samples from the DEMAND dataset spanning a wide range of signal to-noise ratios. 
 
 ## Code
+You can view the main Jupyter notebook here:
 
+- [Speech Enhancement Notebook](https://github.com/RaziGooner/Speech-Processing-Project/blob/main/Speech%20Denoiser.ipynb)
 
 
 <h2>Project Report</h2>
